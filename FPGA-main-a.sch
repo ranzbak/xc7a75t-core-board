@@ -564,7 +564,7 @@ F 3 "" H 13500 2500 50  0001 C CNN
 	1    13500 2500
 	-1   0    0    -1  
 $EndComp
-Text GLabel 9475 3125 0    50   Input ~ 0
+Text GLabel 9975 2500 0    50   Input ~ 0
 VCCO_15
 $Comp
 L Device:Net-Tie_2 NT?
