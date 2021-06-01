@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name jtag)(type KiCad)(uri ${KIPRJMOD}/footprints/jtag.pretty)(options "")(descr ""))
+  (lib (name power_regs)(type KiCad)(uri ${KIPRJMOD}/footprints/power_regs)(options "")(descr ""))
+  (lib (name IS25LP256D-JLLE)(type Legacy)(uri ${KIPRJMOD}/footprints/IS25LP256D-JLLE.mod)(options "")(descr ""))
+)

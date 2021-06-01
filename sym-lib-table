@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name jtag)(type Legacy)(uri ${KIPRJMOD}/symbols/jtag.lib)(options "")(descr ""))
+  (lib (name MP2143DJ-LF-Z)(type Legacy)(uri ${KIPRJMOD}/symbols/MP2143DJ-LF-Z.lib)(options "")(descr ""))
+  (lib (name LM3880MF-1AE_NOPB)(type Legacy)(uri ${KIPRJMOD}/symbols/LM3880MF-1AE_NOPB.lib)(options "")(descr ""))
+  (lib (name LMZ31710RVQR)(type Legacy)(uri ${KIPRJMOD}/symbols/LMZ31710RVQR.lib)(options "")(descr ""))
+  (lib (name xc7a75t-test-cache)(type Legacy)(uri ${KIPRJMOD}/xc7a75t-test-cache.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KIPRJMOD}/symbols/power.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/unpack/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name ADP5052ACPZ-R7)(type Legacy)(uri ${KIPRJMOD}/symbols/ADP5052ACPZ-R7.lib)(options "")(descr ""))
+  (lib (name eec)(type Legacy)(uri ${KIPRJMOD}/symbols/eec.lib)(options "")(descr ""))
+  (lib (name IS25LP256D-JLLE)(type Legacy)(uri ${KIPRJMOD}/symbols/IS25LP256D-JLLE.lib)(options "")(descr ""))
+)

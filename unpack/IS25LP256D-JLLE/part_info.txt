@@ -1,0 +1,9 @@
+Manufacturer=Integrated Silicon Solution Inc.
+PartNumber=IS25LP256D-JLLE
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2018-11-07 10:34:21
+Downloaded=2021-05-30 20:38:07
+3D=Y

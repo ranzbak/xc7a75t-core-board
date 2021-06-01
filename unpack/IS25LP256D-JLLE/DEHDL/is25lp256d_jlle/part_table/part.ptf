@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS25LP256D_JLLE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Integrated Silicon Solution Inc.", "IS25LP256D-JLLE" (!) = "", "SON127P800X600X80-9N-D", "Small Outline No-lead", "870-IS25LP256D-JLLE", "https://www.mouser.co.uk/ProductDetail/ISSI/IS25LP256D-JLLE?qs=o7k0yqUNuKBtHG3%252BsElLAA%3D%3D", "IS25LP256D-JLLE", "https://www.arrow.com/en/products/is25lp256d-jlle/integrated-silicon-solution-inc", "INTEGRATED SILICON SOLUTION (ISSI) - IS25LP256D-JLLE - NOR FLASH MEMORY 256MBIT, 166MHZ, WSON", "http://www.issi.com/WW/pdf/IS25LP(WP)256D.pdf", "0.8 mm"
+END_PART
+
+END.

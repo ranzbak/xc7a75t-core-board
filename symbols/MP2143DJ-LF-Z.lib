@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MP2143DJ-LF-Z
+#
+DEF MP2143DJ-LF-Z U 0 40 Y Y 1 L N
+F0 "U" -400 630 50 H V L BNN
+F1 "MP2143DJ-LF-Z" -400 -700 50 H V L BNN
+F2 "SOT65P280X100-8N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "MPS" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "IPC 7351B" 0 0 50 H I L BNN "STANDARD"
+F6 "1.07" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S -400 -600 400 600 0 0 10 f
+X PG 1 -600 -200 200 R 40 40 0 0 I 
+X VIN 2 -600 400 200 R 40 40 0 0 I 
+X SW 3 600 400 200 L 40 40 0 0 O 
+X PGND 4 600 -400 200 L 40 40 0 0 W 
+X OUT 5 600 200 200 L 40 40 0 0 O 
+X AGND 6 600 -500 200 L 40 40 0 0 W 
+X FB 7 600 0 200 L 40 40 0 0 I 
+X EN 8 -600 0 200 R 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library

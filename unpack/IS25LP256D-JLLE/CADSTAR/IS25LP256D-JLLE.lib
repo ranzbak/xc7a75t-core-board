@@ -1,0 +1,18 @@
+.IS25LP256D-JLLE :1 ;INTEGRATED SILICON SOLUTION (ISSI) - IS25LP256D-JLLE - NOR FLASH MEMORY 256MBIT, 166MHZ, WSON
+SON127P800X600X80-9N-D
+*STM IC
+*NGS
+*PLB 1="CE#" 2="SO (IO1)" 3="WP# (IO2)" 4="GND" 5="SI (IO0)" 6="SCK" 7="HOLD# OR RESET# (IO3)" 8="VCC" 9="EP"
+*MXP 9
+*DFN IS25LP256D-JLLE
+~!Manufacturer_Name (Integrated Silicon Solution Inc.)
+~!Manufacturer_Part_Number (IS25LP256D-JLLE)
+~!Mouser Part Number (870-IS25LP256D-JLLE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ISSI/IS25LP256D-JLLE?qs=o7k0yqUNuKBtHG3%252BsElLAA%3D%3D)
+~!Arrow Part Number (IS25LP256D-JLLE)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/is25lp256d-jlle/integrated-silicon-solution-inc)
+~!Link Datasheet (http://www.issi.com/WW/pdf/IS25LP(WP)256D.pdf)
+~!Height (0.8mm)
+~!3D_Model (IS25LP256D-JLLE)
+IS25LP256D-JLLE
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
