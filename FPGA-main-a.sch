@@ -594,4 +594,24 @@ F 3 "" H 3250 2500 50  0001 C CNN
 $EndComp
 Text GLabel 6775 2500 2    50   Input ~ 0
 VCCO_14
+Text GLabel 6375 5025 0    50   Input ~ 0
+QSPI_FCS
+Text GLabel 10375 8425 2    50   Input ~ 0
+QSPI_FOE_B
+Text GLabel 10375 8525 2    50   Input ~ 0
+QSPI_FWE_B
+Text GLabel 6375 6925 0    50   Input ~ 0
+QSPI_CSO_B
+Text GLabel 6375 7025 0    50   Input ~ 0
+QSPI_CSI_B
+Text GLabel 6375 4425 0    50   Input ~ 0
+QSPI_PUDC_B
+Text GLabel 6375 4225 0    50   Input ~ 0
+QSPI_DQ2
+Text GLabel 6375 4325 0    50   Input ~ 0
+QSPI_DQ3
+Text GLabel 6375 4125 0    50   Input ~ 0
+QSPI_DQ1
+Text GLabel 6375 4025 0    50   Input ~ 0
+QSPI_SI
 $EndSCHEMATC
